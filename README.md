@@ -1,5 +1,3 @@
-# About Me
-
 Hello! 👋 I'm a versatile **Full Stack Developer** with a passion for crafting efficient web applications and scalable systems. I specialize in both frontend and backend development, with a keen interest in **DevOps** and automation.
 
 ## 🛠️ Tech Stack
