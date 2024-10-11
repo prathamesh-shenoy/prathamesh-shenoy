@@ -1,16 +1,33 @@
-## Hi there 👋
+# Full Stack Developer | DevOps Enthusiast | Problem Solver
 
-<!--
-**prathamesh-shenoy/prathamesh-shenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm a versatile **Full Stack Developer** with a passion for crafting efficient web applications and scalable systems. I specialize in both frontend and backend development, with a keen interest in **DevOps** and automation.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML, CSS, JavaScript
+- React, Vue, Bootstrap, Tailwind CSS, ShadCN
+
+### Backend
+- Node.js
+- PHP (Laravel)
+- Python (Django)
+
+### Databases
+- MySQL, MariaDB, PostgreSQL
+
+### DevOps
+- Docker
+- CI/CD pipelines
+- Nginx
+- AWS
+
+### Version Control
+- Git, GitHub
+
+## 🚀 About Me
+- Enthusiastic about learning new technologies.
+- Enjoy contributing to open-source projects.
+- Passionate about building robust and scalable solutions.
+
+Let's connect and build something amazing! Feel free to reach out for collaboration or just a chat. 😊
